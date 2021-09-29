@@ -1,2 +1,2 @@
-# investigate-a-dataset-project-2
+# investigate-a-dataset-project
 This is the second project in udacity data analysis nanodgree
